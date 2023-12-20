@@ -1,0 +1,939 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.israel-palestine-conflict-M2d {
+  box-sizing: border-box;
+  padding-top: 2.7rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.israel-palestine-conflict-M2d .auto-group-nb2j-rEH {
+  margin: 0rem 0rem 1.8rem 3.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-nb2j-rEH .image-1-wWd {
+  margin-right: 2.1rem;
+  width: 11.1rem;
+  height: 10.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-nb2j-rEH .aljazeera-TE5 {
+  margin: 0rem 4.8rem 0.8rem 0rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #efbf14;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-nb2j-rEH .home-kU5 {
+  margin: 0rem 2.85rem 1.1rem 0rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-nb2j-rEH .news-4Um {
+  margin: 0rem 0.35rem 1.1rem 0rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-nb2j-rEH .vector-BJV {
+  margin: 0rem 2.049rem 0.6rem 0rem;
+  width: 1.2009rem;
+  height: 0.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-nb2j-rEH .israel-gaza-war-W5s {
+  margin: 0rem 1.5rem 1.1rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-nb2j-rEH .features-ceh {
+  margin: 0rem 1.45rem 1.1rem 0rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-nb2j-rEH .economy-Lah {
+  margin: 0rem 2.6rem 1.1rem 0rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-nb2j-rEH .opinion-TQR {
+  margin: 0rem 1.75rem 1.1rem 0rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-nb2j-rEH .video-aE9 {
+  margin: 0rem 2.75rem 1.1rem 0rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-nb2j-rEH .more-Vru {
+  margin: 0rem 0.3rem 1.1rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-nb2j-rEH .vector-CWR {
+  margin: 0rem 4.198rem 0.7rem 0rem;
+  width: 0.9022rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-nb2j-rEH .vector-vxD {
+  margin: 0rem 0.8rem 0.6rem 0rem;
+  width: 2.1rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-nb2j-rEH .live-Tx9 {
+  margin: 0rem 3.7rem 0.5rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-nb2j-rEH .vector-zBP {
+  margin: 0rem 32rem 0.4rem 0rem;
+  width: 2rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-nb2j-rEH .live-KzM {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-fqpb-g4D {
+  box-sizing: border-box;
+  padding: 2rem 14.1rem 3.1rem 0.4rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #e93a3a;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-fqpb-g4D .breaking-PzD {
+  margin: 0.5rem 0.8rem 0rem 0rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #f6eeee;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-fqpb-g4D .line-1-7vD {
+  margin: 0rem 2.05rem 7.2rem 0rem;
+  width: 0.1rem;
+  height: 0.1rem;
+  background-color: #faeded;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-fqpb-g4D .who-chief-raises-concerns-after-israel-forces-raid-northen-gaza-hospital-Rvu {
+  margin: 0.3rem 2.95rem 0rem 0rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #f6eeee;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-fqpb-g4D .vector-7oj {
+  margin: 0.336rem 3.1rem 0rem 0rem;
+  width: 2.9rem;
+  height: 2.8362rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-fqpb-g4D .vector-Sr1 {
+  margin-top: 0.8044rem;
+  width: 2.4rem;
+  height: 2.3044rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .israel-palestine-conflict-n9B {
+  margin-right: 2.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb {
+  width: 100%;
+  height: 430.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-fbph-Rhw {
+  width: 133.4rem;
+  height: 86.9rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 14.6rem;
+  display: flex;
+  align-items: center;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-fbph-Rhw .auto-group-xtrj-kER {
+  box-sizing: border-box;
+  padding-right: 1.5rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-fbph-Rhw .auto-group-xtrj-kER .auto-group-8xd9-J13 {
+  margin-right: 2.8rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-fbph-Rhw .auto-group-xtrj-kER .auto-group-8xd9-J13 .image-21-3UR {
+  margin-bottom: 2rem;
+  width: 60.2rem;
+  height: 39.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-fbph-Rhw .auto-group-xtrj-kER .auto-group-8xd9-J13 .un-general-assembly-votes-overwhelmingly-in-favour-of-gaza-ceasefire-Nmb {
+  margin-left: 1rem;
+  max-width: 58.1rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-fbph-Rhw .auto-group-xtrj-kER .auto-group-8xd9-J13 .the-us-and-israel-were-among-the-few-votes-against-the-non-binding-resolution-calling-for-an-end-to-the-fighting-12-dec-2023-UZj {
+  margin-left: 1rem;
+  max-width: 53.4rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #7a7676;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-fbph-Rhw .auto-group-xtrj-kER .auto-group-zsvd-kXF {
+  margin: 1.3rem 0rem 1.8rem 0rem;
+  height: calc(100% - 3.1rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-fbph-Rhw .auto-group-xtrj-kER .auto-group-zsvd-kXF .image-24-H1P {
+  margin-bottom: 5.8rem;
+  width: 32.6rem;
+  height: 24.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-fbph-Rhw .auto-group-xtrj-kER .auto-group-zsvd-kXF .image-26-D9w {
+  margin-bottom: 9.6rem;
+  width: 32.6rem;
+  height: 22.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-fbph-Rhw .auto-group-xtrj-kER .auto-group-zsvd-kXF .image-75-9ZP {
+  width: 32.6rem;
+  height: 21.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-fbph-Rhw .auto-group-jpcf-V7T {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-fbph-Rhw .auto-group-jpcf-V7T .auto-group-khyw-Eaq {
+  margin: 0rem 0rem 4.5rem 0.6rem;
+  width: 35.7rem;
+  height: 26.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-fbph-Rhw .auto-group-jpcf-V7T .auto-group-khyw-Eaq .even-in-time-of-genocide-big-tech-silences-palestinians-xWq {
+  width: 35.1rem;
+  height: 9rem;
+  position: absolute;
+  left: 0;
+  top: 3.5rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-fbph-Rhw .auto-group-jpcf-V7T .auto-group-khyw-Eaq .social-media-platforms-have-been-systematically-censoring-pro-palestinian-content-while-allowing-anti-palestinian-hate-speech-rMK {
+  width: 35.7rem;
+  height: 15rem;
+  position: absolute;
+  left: 0;
+  top: 11.9rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #7a7676;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-fbph-Rhw .auto-group-jpcf-V7T .auto-group-khyw-Eaq .opinion-vc5 {
+  width: 9.6rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #7a7676;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-fbph-Rhw .auto-group-jpcf-V7T .auto-group-p2mr-3gh {
+  margin-bottom: 1rem;
+  width: 35.5rem;
+  height: 11.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-fbph-Rhw .auto-group-jpcf-V7T .auto-group-p2mr-3gh .biden-warns-israel-risks-losing-support-over-indiscriminate-gaza-bombing-PkZ {
+  width: 35.5rem;
+  height: 7.9rem;
+  position: absolute;
+  left: 0;
+  top: 3.8rem;
+  font-size: 2.1rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-fbph-Rhw .auto-group-jpcf-V7T .auto-group-p2mr-3gh .image-27-fi5 {
+  width: 33.4rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-fbph-Rhw .auto-group-jpcf-V7T .us-president-offers-his-sharpest-public-criticism-of-israel-since-the-start-of-its-war-with-hamas-12-dec-2023-11F {
+  margin: 0rem 0rem 6.4rem 0.4rem;
+  max-width: 30.7rem;
+  font-size: 1.7rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #7a7676;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-fbph-Rhw .auto-group-jpcf-V7T .auto-group-xbjj-4VK {
+  width: 35.6rem;
+  height: 23.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-fbph-Rhw .auto-group-jpcf-V7T .auto-group-xbjj-4VK .photos-israel-is-bombing-starving-palestinians-in-southern-gaza-c13 {
+  width: 35.2rem;
+  height: 9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-fbph-Rhw .auto-group-jpcf-V7T .auto-group-xbjj-4VK .the-us-and-israel-were-among-the-few-votes-against-the-non-binding-resolution-calling-for-an-end-to-the-fighting-12-dec-2023-WMK {
+  width: 35.2rem;
+  height: 15rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 8.6rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #7a7676;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-mn6x-ZqP {
+  width: 106rem;
+  height: 34.5rem;
+  position: absolute;
+  left: 9.6rem;
+  top: 122.3rem;
+  display: flex;
+  align-items: center;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-mn6x-ZqP .auto-group-dgso-JHB {
+  margin-right: 5.3rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-mn6x-ZqP .auto-group-dgso-JHB .what-is-the-situation-in-gazas-khan-younis-as-israel-intensifies-attacks-eM3 {
+  max-width: 60rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-mn6x-ZqP .auto-group-dgso-JHB .israel-has-intensified-attacks-on-khan-younis-which-was-dubbed-a-safe-zone-in-the-initial-days-of-the-war-12-dec-2023-YhK {
+  max-width: 65.6rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #7a7676;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-mn6x-ZqP .auto-group-dgso-JHB .israel-has-intensified-attacks-on-khan-younis-which-was-dubbed-a-safe-zone-in-the-initial-days-of-the-war-12-dec-2023-YhK .israel-has-intensified-attacks-on-khan-younis-which-was-dubbed-a-safe-zone-in-the-initial-days-of-the-war-12-dec-2023-YhK-sub-0 {
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.8725;
+  color: #7a7676;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-mn6x-ZqP .auto-group-dgso-JHB .israel-has-intensified-attacks-on-khan-younis-which-was-dubbed-a-safe-zone-in-the-initial-days-of-the-war-12-dec-2023-YhK .israel-has-intensified-attacks-on-khan-younis-which-was-dubbed-a-safe-zone-in-the-initial-days-of-the-war-12-dec-2023-YhK-sub-1 {
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-mn6x-ZqP .image-76-AMK {
+  margin-bottom: 4.8rem;
+  width: 35.1rem;
+  height: 24.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .line-26-h6M {
+  width: 142.7rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 9.6rem;
+  background-color: #000000;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .explainer-RY9 {
+  width: 15.8rem;
+  height: 6rem;
+  position: absolute;
+  left: 15.4rem;
+  top: 111.9rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-vng3-Xr5 {
+  width: 106rem;
+  height: 28.1rem;
+  position: absolute;
+  left: 9.6rem;
+  top: 162.4rem;
+  display: flex;
+  align-items: flex-end;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-vng3-Xr5 .auto-group-chco-Tjj {
+  margin-right: 3.6rem;
+  width: 67.3rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-vng3-Xr5 .auto-group-chco-Tjj .from-newsfeed-ChK {
+  width: 21.4rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.8725;
+  color: #7a7676;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-vng3-Xr5 .auto-group-chco-Tjj .everyone-is-going-hungry-in-gaza-un-en-voys-learn-on-visit-to-rafah-border-KX3 {
+  width: 53.9rem;
+  height: 11.3rem;
+  position: absolute;
+  left: 0;
+  top: 5.6rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-vng3-Xr5 .auto-group-chco-Tjj .un-security-council-envoys-have-visited-gazas-rafah-border-crossing-with-egypt-PWu {
+  width: 67.3rem;
+  height: 11.3rem;
+  position: absolute;
+  left: 0;
+  top: 16.8rem;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-vng3-Xr5 .image-77-58q {
+  margin-bottom: 0.8rem;
+  width: 35.1rem;
+  height: 24.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .line-26-p6R {
+  width: 118.1027rem;
+  height: 0.1073rem;
+  position: absolute;
+  left: 6.4rem;
+  top: 158.3rem;
+  background-color: #bcacac;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .line-28-YHK {
+  width: 118.1027rem;
+  height: 0.1073rem;
+  position: absolute;
+  left: 6.4rem;
+  top: 200.3rem;
+  background-color: #bcacac;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .line-29-Gz1 {
+  width: 118.1027rem;
+  height: 0.1073rem;
+  position: absolute;
+  left: 6.4rem;
+  top: 242.5rem;
+  background-color: #bcacac;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .line-30-RM7 {
+  width: 118.1027rem;
+  height: 0.1073rem;
+  position: absolute;
+  left: 6.4rem;
+  top: 282.3rem;
+  background-color: #bcacac;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .line-31-ZTK {
+  width: 118.1027rem;
+  height: 0.1073rem;
+  position: absolute;
+  left: 6.4rem;
+  top: 330.5rem;
+  background-color: #bcacac;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .image-78-JQu {
+  width: 18.4rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 9.6rem;
+  top: 192rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .image-81-di5 {
+  width: 18.4rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 10.9rem;
+  top: 234.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-gcjm-xVT {
+  width: 105.8rem;
+  height: 25.3rem;
+  position: absolute;
+  left: 9.8rem;
+  top: 207.4rem;
+  display: flex;
+  align-items: flex-end;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-gcjm-xVT .un-security-council-envoys-have-visited-gaza-rafa-border-crossing-with-egypt-5a5 {
+  margin-right: 3.6rem;
+  max-width: 67.1rem;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.8725;
+  color: #7a7676;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-gcjm-xVT .image-80-BND {
+  margin-bottom: 1.8rem;
+  width: 35.1rem;
+  height: 23.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-yitd-XBB {
+  width: 107.45rem;
+  height: 26.3rem;
+  position: absolute;
+  left: 9.8rem;
+  top: 249.8rem;
+  display: flex;
+  align-items: flex-end;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-yitd-XBB .auto-group-fdq5-Fcy {
+  margin-right: 8.4rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-yitd-XBB .auto-group-fdq5-Fcy .israeli-forces-blow-up-unrwa-school-in-northern-gaza-cCd {
+  max-width: 53.9rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-yitd-XBB .auto-group-fdq5-Fcy .video-shows-the-moment-israeli-force-blew-up-the-unrwa-school-in-northern-gaza-XqP {
+  max-width: 62.3rem;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.8725;
+  color: #7a7676;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-yitd-XBB .image-84-Ejo {
+  margin-bottom: 1.8rem;
+  width: 36.75rem;
+  height: 24.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-paa7-ySV {
+  width: 108.5354rem;
+  height: 31.7rem;
+  position: absolute;
+  left: 9.8rem;
+  top: 291.5rem;
+  display: flex;
+  align-items: flex-start;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-paa7-ySV .auto-group-yhej-6n1 {
+  margin: 0.4rem 2.7rem 0rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-paa7-ySV .auto-group-yhej-6n1 .al-jazeera-journalists-father-killed-in-israeli-strike-on-his-gaza-home-EtD {
+  margin-bottom: 1.3rem;
+  max-width: 59.5rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-paa7-ySV .auto-group-yhej-6n1 .al-jazeera-journalist-anas-al-sharif-bids-farewall-to-his-father-who-was-killed-when-an-israeli-strike-hit-their-ja5 {
+  max-width: 68rem;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.8725;
+  color: #7a7676;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-paa7-ySV .image-87-Rho {
+  width: 37.8354rem;
+  height: 24.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .image-86-N7F {
+  width: 15.8rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.8rem;
+  top: 277.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .image-88-6J9 {
+  width: 16.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.8rem;
+  top: 324.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .auto-group-spef-2Sh {
+  box-sizing: border-box;
+  padding: 0.4rem 14.5rem 0rem 13.8rem;
+  width: 45.6rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 45.7rem;
+  top: 345.8rem;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #fffdfd;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #000000;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .frame-2-gGM {
+  box-sizing: border-box;
+  padding-left: 1.9rem;
+  width: 134.9rem;
+  height: 6rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 0.9rem;
+  overflow: hidden;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .frame-2-gGM .frame-1-CkV {
+  width: 271.2rem;
+  height: 5.7rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .frame-2-gGM .frame-1-CkV .live-updates-vwP {
+  margin-right: 2.85rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .frame-2-gGM .frame-1-CkV .know-their-names-west-bank-4Gu {
+  margin-right: 2.9rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .frame-2-gGM .frame-1-CkV .tunnel-warfare-nCu {
+  margin-right: 2.85rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .frame-2-gGM .frame-1-CkV .photos-iMT {
+  margin-right: 2.85rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .frame-2-gGM .frame-1-CkV .what-role-is-ai-playing-rCm {
+  margin-right: 2.95rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .frame-2-gGM .frame-1-CkV .we-are-dying-here-yYH {
+  margin-right: 2.9rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .frame-2-gGM .frame-1-CkV .a-brief-history-ugq {
+  margin-right: 2.5rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .frame-2-gGM .frame-1-CkV .did-tech-dependence-cause-intel-failure--qqP {
+  margin-right: 4.05rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .frame-2-gGM .frame-1-CkV .live-tracker-AMs {
+  margin-right: 2.85rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .frame-2-gGM .frame-1-CkV .a-simple-guide-tof {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.israel-palestine-conflict-M2d .auto-group-bds1-ujb .image-59-S4V {
+  width: 142.1rem;
+  height: 64.2rem;
+  position: absolute;
+  left: 0;
+  top: 366.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
