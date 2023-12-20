@@ -1,0 +1,751 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.opinion-rfX {
+  box-sizing: border-box;
+  padding-top: 2.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.opinion-rfX .auto-group-vafu-Bho {
+  margin: 0rem 0rem 2.1rem 2.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-vafu-Bho .image-1-Ugu {
+  margin-right: 2.1rem;
+  width: 11.1rem;
+  height: 10.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-vafu-Bho .aljazeera-Q4m {
+  margin: 0rem 4.8rem 0.8rem 0rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #efbf14;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-vafu-Bho .home-6yB {
+  margin: 0rem 2.85rem 1.1rem 0rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-vafu-Bho .news-RVf {
+  margin: 0rem 0.35rem 1.1rem 0rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-vafu-Bho .vector-YqB {
+  margin: 0rem 2.049rem 0.6rem 0rem;
+  width: 1.2009rem;
+  height: 0.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-vafu-Bho .israel-gaza-war-GmB {
+  margin: 0rem 1.5rem 1.1rem 0rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-vafu-Bho .features-njX {
+  margin: 0rem 1.45rem 1.1rem 0rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-vafu-Bho .economy-uJM {
+  margin: 0rem 2.6rem 1.1rem 0rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-vafu-Bho .opinion-dEM {
+  margin: 0rem 1.75rem 1.1rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-vafu-Bho .video-LuT {
+  margin: 0rem 2.75rem 1.1rem 0rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-vafu-Bho .more-GHK {
+  margin: 0rem 0.3rem 1.1rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-vafu-Bho .vector-P73 {
+  margin: 0rem 4.198rem 0.7rem 0rem;
+  width: 0.9022rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-vafu-Bho .vector-WSZ {
+  margin: 0rem 0.8rem 0.6rem 0rem;
+  width: 2.1rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-vafu-Bho .live-qjj {
+  margin: 0rem 3.7rem 0.5rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-vafu-Bho .vector-AGD {
+  margin: 0rem 33rem 0.4rem 0rem;
+  width: 2rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-vafu-Bho .live-uDo {
+  margin-right: 24.3rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-vafu-Bho .live-3L1 {
+  margin-top: 1.2rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-tbzk-a53 {
+  margin-bottom: 2.8rem;
+  box-sizing: border-box;
+  padding: 2.2rem 0rem 3.4rem 3.7rem;
+  width: 178.2362rem;
+  display: flex;
+  align-items: center;
+  background-color: #e93a3a;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-tbzk-a53 .breaking-51o {
+  margin-right: 2.7rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #f6eeee;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-tbzk-a53 .line-1-bkq {
+  margin: 0rem 2.75rem 6.7rem 0rem;
+  width: 0.1rem;
+  height: 0.1rem;
+  background-color: #faeded;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-tbzk-a53 .who-chief-raises-concerns-after-israel-forces-raid-northen-gaza-hospital-XPb {
+  margin: 0.6rem 3.45rem 0rem 0rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #f6eeee;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-tbzk-a53 .vector-oru {
+  margin: 1.066rem 2.3rem 0rem 0rem;
+  width: 2.9rem;
+  height: 2.6656rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-tbzk-a53 .vector-iys {
+  margin: 0.966rem 40.464rem 0rem 0rem;
+  width: 2.4rem;
+  height: 2.1658rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-tbzk-a53 .iconoir-cancel-f8R {
+  margin-top: 1.3rem;
+  width: 2.272rem;
+  height: 2.403rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.opinion-rfX .opinion-nD3 {
+  margin-right: 8rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-cuqd-v4M {
+  box-sizing: border-box;
+  padding-top: 3.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-cag3-FcR {
+  margin: 0rem 0rem 0.2rem 3.7rem;
+  height: 79.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-cag3-FcR .auto-group-3wdr-Nww {
+  margin: 2.6rem 2.8rem 0rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-cag3-FcR .auto-group-3wdr-Nww .image-36-X49 {
+  margin-bottom: 0.4rem;
+  width: 62.3rem;
+  height: 41.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-cag3-FcR .auto-group-3wdr-Nww .auto-group-m2ls-Fkq {
+  margin-bottom: 0.6rem;
+  width: 52.6rem;
+  height: 19.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-cag3-FcR .auto-group-3wdr-Nww .auto-group-m2ls-Fkq .opinion-bph {
+  width: 10.8rem;
+  height: 6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #a69d9d;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-cag3-FcR .auto-group-3wdr-Nww .auto-group-m2ls-Fkq .even-in-time-of-genocide-big-tech-silences-palestinians-vMB {
+  width: 52.6rem;
+  height: 13.5rem;
+  position: absolute;
+  left: 0;
+  top: 5.6rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-cag3-FcR .auto-group-3wdr-Nww .social-media-platforms-have-been-systematically-censoring-pro-palestinian-content-while-allowing-anti-palestinian-hate-speech-cUu {
+  max-width: 63.3rem;
+  font-size: 2.7rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #7a7676;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-cag3-FcR .auto-group-pwyd-J6q {
+  margin: 2.6rem 0rem 3.1rem 0rem;
+  height: calc(100% - 5.7rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-cag3-FcR .auto-group-pwyd-J6q .image-37-p5B {
+  margin: 0rem 0rem 12.8rem 1.6rem;
+  width: 25.9rem;
+  height: 16.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-cag3-FcR .auto-group-pwyd-J6q .image-32-L3X {
+  margin: 0rem 0rem 10.1rem 0.1rem;
+  width: 25.9rem;
+  height: 18.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-cag3-FcR .auto-group-pwyd-J6q .image-34-TP3 {
+  width: 25.9rem;
+  height: 16.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-cag3-FcR .auto-group-82kb-oC1 {
+  margin-bottom: 0.8rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-cag3-FcR .auto-group-82kb-oC1 .auto-group-wvns-wZ7 {
+  margin-left: 1.4rem;
+  width: 33.7rem;
+  height: 19.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-cag3-FcR .auto-group-82kb-oC1 .auto-group-wvns-wZ7 .opinion-V4q {
+  width: 7.7rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #a69d9d;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-cag3-FcR .auto-group-82kb-oC1 .auto-group-wvns-wZ7 .how-arab-eco-normalisation-of-israel-covers-up-its-crimes-Cjw {
+  width: 27.2rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 0;
+  top: 2.7rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-cag3-FcR .auto-group-82kb-oC1 .auto-group-wvns-wZ7 .the-image-of-a-green-technology-pioneer-helps-israel-to-greenwash-its-occupation-and-apartheid-in-palestine-CdT {
+  width: 33.7rem;
+  height: 9rem;
+  position: absolute;
+  left: 0;
+  top: 10.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #7a7676;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-cag3-FcR .auto-group-82kb-oC1 .image-39-G7X {
+  margin: 0rem 0rem 3rem 0.3rem;
+  width: 34rem;
+  height: 7.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-cag3-FcR .auto-group-82kb-oC1 .auto-group-ppg3-nbf {
+  margin: 0rem 0rem 0.1rem 0.3rem;
+  width: 33.8rem;
+  height: 22.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-cag3-FcR .auto-group-82kb-oC1 .auto-group-ppg3-nbf .opinion-WGm {
+  width: 7.7rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 0.3rem;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #a69d9d;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-cag3-FcR .auto-group-82kb-oC1 .auto-group-ppg3-nbf .the-state-of-exception-in-hon-duras-is-endangering-innocent-lives-dcH {
+  width: 26.1rem;
+  height: 11.3rem;
+  position: absolute;
+  left: 0.3rem;
+  top: 3.2rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-cag3-FcR .auto-group-82kb-oC1 .auto-group-ppg3-nbf .the-heavy-handed-security-measures-introduced-to-tackle-gang-violence-have-triggered-a-spike-in-abuses-and-deaths-iNq {
+  width: 33.8rem;
+  height: 9rem;
+  position: absolute;
+  left: 0;
+  top: 13.2rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #7a7676;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-cag3-FcR .auto-group-82kb-oC1 .image-40-ndb {
+  margin-bottom: 4.3rem;
+  width: 26.1rem;
+  height: 3.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-cag3-FcR .auto-group-82kb-oC1 .auto-group-xxgt-XbB {
+  width: 34.1rem;
+  height: 19.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-cag3-FcR .auto-group-82kb-oC1 .auto-group-xxgt-XbB .opinion-UWR {
+  width: 7.7rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 0.3rem;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #a69d9d;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-cag3-FcR .auto-group-82kb-oC1 .auto-group-xxgt-XbB .israel-should-learn-from-french-mistakes-in-algeria-nGD {
+  width: 26.8rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 0;
+  top: 3.2rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-cag3-FcR .auto-group-82kb-oC1 .auto-group-xxgt-XbB .and-president-biden-from-president-kennedys-principled-and-pragmatic-support-for-an-occupied-peoples-struggle-for-liberation-gsP {
+  width: 34.1rem;
+  height: 9rem;
+  position: absolute;
+  left: 0;
+  top: 10.5rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #7a7676;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-lz9m-8Db {
+  margin: 0rem 20.4rem 9.4rem 2.9rem;
+  width: calc(100% - 23.3rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-lz9m-8Db .image-38-rQV {
+  margin: 1.4rem 68.3rem 0rem 0rem;
+  width: 26.1rem;
+  height: 3.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-lz9m-8Db .image-41-mXT {
+  width: 26.3rem;
+  height: 3.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-wqd5-WV3 {
+  margin: 0rem 13.4rem 0rem 7.9rem;
+  width: calc(100% - 21.3rem);
+  height: 72.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-wqd5-WV3 .image-92-dpZ {
+  margin-right: 3rem;
+  width: 79.4rem;
+  height: 72.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-wqd5-WV3 .auto-group-ceax-mvm {
+  margin: 8.3rem 0rem 16.8rem 0rem;
+  width: 40.3rem;
+  height: calc(100% - 25.1rem);
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-wqd5-WV3 .auto-group-ceax-mvm .auto-group-s7dd-6CM {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 2.3rem 1.8rem 5.6rem 2.6rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f8eded;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-wqd5-WV3 .auto-group-ceax-mvm .auto-group-s7dd-6CM .auto-group-61pp-QTw {
+  margin: 0rem 0rem 3.5rem 2.6rem;
+  width: 33.3rem;
+  height: 9.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-wqd5-WV3 .auto-group-ceax-mvm .auto-group-s7dd-6CM .auto-group-61pp-QTw .sign-up-for-al-jazeera-jm7 {
+  width: 19.6rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 6rem;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-wqd5-WV3 .auto-group-ceax-mvm .auto-group-s7dd-6CM .auto-group-61pp-QTw .week-in-the-middle-east-r53 {
+  width: 33.3rem;
+  height: 6rem;
+  position: absolute;
+  left: 0;
+  top: 3.5rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-wqd5-WV3 .auto-group-ceax-mvm .auto-group-s7dd-6CM .catch-up-on-our-coverage-of-the-region-all-in-one-place-x85 {
+  margin: 0rem 4.6rem 1.6rem 0rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-wqd5-WV3 .auto-group-ceax-mvm .auto-group-s7dd-6CM .auto-group-jkx5-FN5 {
+  margin: 0rem 1.9rem 2.2rem 0rem;
+  box-sizing: border-box;
+  padding: 0.2rem 2rem;
+  width: 34rem;
+  height: 4.6rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #beb6b6;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d9d9d9;
+  background-color: #f5f5f5;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-wqd5-WV3 .auto-group-ceax-mvm .auto-group-s7dd-6CM .auto-group-2hhd-HZf {
+  margin: 0rem 12.1rem 4.5rem 10.3rem;
+  width: calc(100% - 22.4rem);
+  height: 4.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-wqd5-WV3 .auto-group-ceax-mvm .auto-group-s7dd-6CM .auto-group-2hhd-HZf .rectangle-6-QeH {
+  width: 13.5rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #000000;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-wqd5-WV3 .auto-group-ceax-mvm .auto-group-s7dd-6CM .auto-group-2hhd-HZf .sign-up-ky3 {
+  width: 8.2rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 0;
+  font-size: 2.3rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #fffdfd;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-wqd5-WV3 .auto-group-ceax-mvm .auto-group-s7dd-6CM .auto-group-x4gs-snm {
+  margin-right: 9.7rem;
+  width: calc(100% - 9.7rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-wqd5-WV3 .auto-group-ceax-mvm .auto-group-s7dd-6CM .auto-group-x4gs-snm .by-signing-up-you-agree-to-our-pi1 {
+  margin-right: 1.6rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-wqd5-WV3 .auto-group-ceax-mvm .auto-group-s7dd-6CM .auto-group-x4gs-snm .privacy-policy-krZ {
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-wqd5-WV3 .auto-group-ceax-mvm .protected-by-recaptcha-4sF {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.opinion-rfX .auto-group-cuqd-v4M .image-93-yzD {
+  margin: 0rem 0rem 2rem 7.9rem;
+  width: 82.3rem;
+  height: 128.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-cuqd-v4M .image-94-VxZ {
+  margin: 0rem 0rem 12.9rem 7.9rem;
+  width: 82.3rem;
+  height: 43.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-cuqd-v4M .auto-group-rcvo-E9T {
+  margin: 0rem 78rem 13.1rem 32.1rem;
+  box-sizing: border-box;
+  padding: 0.2rem 9.3rem 0.2rem 9.2rem;
+  width: calc(100% - 110.1rem);
+  height: 7.7rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #fffdfd;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.opinion-rfX .auto-group-cuqd-v4M .image-95-h33 {
+  width: 142.1rem;
+  height: 64.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}

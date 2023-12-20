@@ -1,0 +1,702 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.economy-Rf3 {
+  box-sizing: border-box;
+  padding-top: 2.3rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.economy-Rf3 .auto-group-vj9d-LGD {
+  margin: 0rem 0rem 3.5rem 3.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-vj9d-LGD .image-1-R2m {
+  margin-right: 2.1rem;
+  width: 11.1rem;
+  height: 10.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-vj9d-LGD .aljazeera-wWu {
+  margin: 0rem 4.8rem 0.8rem 0rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #efbf14;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-vj9d-LGD .home-q6V {
+  margin: 0rem 2.85rem 1.1rem 0rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-vj9d-LGD .news-8rH {
+  margin: 0rem 0.35rem 1.1rem 0rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-vj9d-LGD .vector-TNm {
+  margin: 0rem 2.049rem 0.6rem 0rem;
+  width: 1.2009rem;
+  height: 0.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-vj9d-LGD .israel-gaza-war-aiH {
+  margin: 0rem 1.5rem 1.1rem 0rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-vj9d-LGD .features-W69 {
+  margin: 0rem 1.45rem 1.1rem 0rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-vj9d-LGD .economy-1Ho {
+  margin: 0rem 2.6rem 1.1rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-vj9d-LGD .opinion-vff {
+  margin: 0rem 1.75rem 1.1rem 0rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-vj9d-LGD .video-SP7 {
+  margin: 0rem 2.75rem 1.1rem 0rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-vj9d-LGD .more-Zid {
+  margin: 0rem 0.3rem 1.1rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-vj9d-LGD .vector-Uah {
+  margin: 0rem 4.198rem 0.7rem 0rem;
+  width: 0.9022rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-vj9d-LGD .vector-bvD {
+  margin: 0rem 0.8rem 0.6rem 0rem;
+  width: 2.1rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-vj9d-LGD .live-8v9 {
+  margin: 0rem 3.7rem 0.5rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-vj9d-LGD .vector-rr9 {
+  margin: 0rem 33.8rem 0.4rem 0rem;
+  width: 2rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-vj9d-LGD .live-Q6y {
+  margin: 0rem 22.7rem 0.6rem 0rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-vj9d-LGD .live-8Hs {
+  margin-top: 1.4rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-imvd-Tqw {
+  width: 100%;
+  height: 19.5rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-imvd-Tqw .auto-group-mpmu-QFP {
+  margin-right: 31.9642rem;
+  width: 144rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-imvd-Tqw .auto-group-mpmu-QFP .economy-Leq {
+  width: 15.9rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 61.7rem;
+  top: 12rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.economy-Rf3 .auto-group-imvd-Tqw .auto-group-mpmu-QFP .rectangle-1-FWu {
+  width: 144rem;
+  height: 12.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #e93a3a;
+}
+.economy-Rf3 .auto-group-imvd-Tqw .auto-group-mpmu-QFP .breaking-o2d {
+  width: 16.4rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 1.8rem;
+  top: 2.2rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #f6eeee;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.economy-Rf3 .auto-group-imvd-Tqw .auto-group-mpmu-QFP .line-1-WBw {
+  width: 0.1rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 20.2rem;
+  top: 2.2rem;
+  background-color: #faeded;
+}
+.economy-Rf3 .auto-group-imvd-Tqw .auto-group-mpmu-QFP .who-chief-raises-concerns-after-israel-forces-raid-northen-gaza-hospital-eJ9 {
+  width: 98.8rem;
+  height: 6rem;
+  position: absolute;
+  left: 22.55rem;
+  top: 2.7rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #f6eeee;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.economy-Rf3 .auto-group-imvd-Tqw .auto-group-mpmu-QFP .vector-7hX {
+  width: 2.9rem;
+  height: 2.7012rem;
+  position: absolute;
+  left: 125.3rem;
+  top: 4.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.economy-Rf3 .auto-group-imvd-Tqw .auto-group-mpmu-QFP .vector-eBf {
+  width: 2.4rem;
+  height: 2.1947rem;
+  position: absolute;
+  left: 131rem;
+  top: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.economy-Rf3 .auto-group-imvd-Tqw .iconoir-cancel-mXB {
+  margin-top: 3.7485rem;
+  width: 2.272rem;
+  height: 2.403rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K {
+  box-sizing: border-box;
+  padding-top: 4.6rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-hdf9-2T7 {
+  margin: 0rem 14.6rem 7.5rem 3.9rem;
+  width: calc(100% - 18.5rem);
+  height: 73.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-hdf9-2T7 .auto-group-odib-jsK {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-hdf9-2T7 .auto-group-odib-jsK .image-35-6hs {
+  margin-bottom: 2.2rem;
+  width: 58.3rem;
+  height: 37.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-hdf9-2T7 .auto-group-odib-jsK .auto-group-watd-S13 {
+  width: 57.4rem;
+  height: 33rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-hdf9-2T7 .auto-group-odib-jsK .auto-group-watd-S13 .how-a-childs-death-caused-an-ohio-city-to-turn-on-its-haitian-community-a7F {
+  width: 56.8rem;
+  height: 13.5rem;
+  position: absolute;
+  left: 0.6rem;
+  top: 0;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-hdf9-2T7 .auto-group-odib-jsK .auto-group-watd-S13 .a-fatal-school-bus-crash-in-springfield-ohio-has-sparked-a-backlash-to-the-citys-burgeoning-immigrant-population-12-dec-2023-rKf {
+  width: 54rem;
+  height: 19.9rem;
+  position: absolute;
+  left: 0;
+  top: 13.1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.8739999135;
+  color: #7a7676;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-hdf9-2T7 .auto-group-odib-jsK .auto-group-watd-S13 .a-fatal-school-bus-crash-in-springfield-ohio-has-sparked-a-backlash-to-the-citys-burgeoning-immigrant-population-12-dec-2023-rKf .a-fatal-school-bus-crash-in-springfield-ohio-has-sparked-a-backlash-to-the-citys-burgeoning-immigrant-population-12-dec-2023-rKf-sub-0 {
+  font-size: 2.7rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #7a7676;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-hdf9-2T7 .auto-group-odib-jsK .auto-group-watd-S13 .a-fatal-school-bus-crash-in-springfield-ohio-has-sparked-a-backlash-to-the-citys-burgeoning-immigrant-population-12-dec-2023-rKf .a-fatal-school-bus-crash-in-springfield-ohio-has-sparked-a-backlash-to-the-citys-burgeoning-immigrant-population-12-dec-2023-rKf-sub-1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #7a7676;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-hdf9-2T7 .auto-group-mx1h-DC9 {
+  box-sizing: border-box;
+  padding-left: 2.5rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-hdf9-2T7 .auto-group-mx1h-DC9 .auto-group-r65y-ZWu {
+  margin: 0.4rem 2.4rem 0rem 0rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-hdf9-2T7 .auto-group-mx1h-DC9 .auto-group-r65y-ZWu .image-31-VvM {
+  margin: 0rem 0.1rem 6.6rem 0rem;
+  width: 25.9rem;
+  height: 16.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-hdf9-2T7 .auto-group-mx1h-DC9 .auto-group-r65y-ZWu .image-32-RZ7 {
+  margin-bottom: 8.9rem;
+  width: 25.9rem;
+  height: 18.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-hdf9-2T7 .auto-group-mx1h-DC9 .auto-group-r65y-ZWu .image-34-Mhf {
+  width: 25.9rem;
+  height: 16.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-hdf9-2T7 .auto-group-mx1h-DC9 .auto-group-ezbm-VYy {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-hdf9-2T7 .auto-group-mx1h-DC9 .auto-group-ezbm-VYy .yemens-houthis-claim-missile-attack-on-norwegian-ship-qsj {
+  margin-bottom: 1.1rem;
+  max-width: 26.1rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-hdf9-2T7 .auto-group-mx1h-DC9 .auto-group-ezbm-VYy .auto-group-a5ib-Z33 {
+  margin-bottom: 5.2rem;
+  width: 35.6rem;
+  height: 36.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-hdf9-2T7 .auto-group-mx1h-DC9 .auto-group-ezbm-VYy .auto-group-a5ib-Z33 .communities-on-us-lng-front-line-ask-biden-to-reject-export-terminal-Hzd {
+  width: 26.5rem;
+  height: 11.3rem;
+  position: absolute;
+  left: 0;
+  top: 14rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-hdf9-2T7 .auto-group-mx1h-DC9 .auto-group-ezbm-VYy .auto-group-a5ib-Z33 .no-callualties-reported-from-strike-on-strinda-tankers-as-it-passed-strought-strategic-bab-al-man-deb-strait-12-dec-2023-nRb {
+  width: 35.6rem;
+  height: 12rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #7a7676;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-hdf9-2T7 .auto-group-mx1h-DC9 .auto-group-ezbm-VYy .auto-group-a5ib-Z33 .lousianas-booming-lng-industryis-wreaking-hav-oc-on-fishing-commounty-local-and-protesting-a-potential-new-terminal-11-dec-2023-rgM {
+  width: 34.5rem;
+  height: 12rem;
+  position: absolute;
+  left: 0;
+  top: 24.6rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #7a7676;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-hdf9-2T7 .auto-group-mx1h-DC9 .auto-group-ezbm-VYy .argentinas-javier-milei-tells-na-tion-to-brace-for-painful-econom-ic-shock-7sB {
+  margin-bottom: 0.3rem;
+  max-width: 28.4rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-hdf9-2T7 .auto-group-mx1h-DC9 .auto-group-ezbm-VYy .newly-inaugurated-libertarian-president-warns-there-is-no-alternative-to-a-shock-adjustment-11-dec-2023-1hf {
+  max-width: 36.3rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #7a7676;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-9zmh-JAy {
+  margin: 0rem 11.8rem 7.98rem 4.5rem;
+  width: calc(100% - 16.3rem);
+  height: 32.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-9zmh-JAy .auto-group-yi2o-1r5 {
+  margin-right: 12.2rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-9zmh-JAy .auto-group-yi2o-1r5 .for-myanmars-generals-energy-crisis-threatens-shaky-grip-on-power-Muw {
+  margin-bottom: 2.8rem;
+  max-width: 51.1rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-9zmh-JAy .auto-group-yi2o-1r5 .min-aung-hlaings-administration-is-facing-energy-shortages-as-it-struggles-to-quell-opposition-to-its-rule-11-dec-2023-3Gy {
+  max-width: 72.2rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #7a7676;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-9zmh-JAy .image-106-KkH {
+  margin-bottom: 0.4rem;
+  width: 43.3rem;
+  height: 29.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .line-35-3gH {
+  margin: 0rem 11.789rem 6.3rem 4.5rem;
+  width: calc(100% - 16.2894rem);
+  height: 0.12rem;
+  background-color: #bcacac;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-p2zh-m6V {
+  margin: 0rem 11.8rem 7.3rem 4.5rem;
+  width: calc(100% - 16.3rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-p2zh-m6V .auto-group-rmlf-68m {
+  margin-right: 5rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-p2zh-m6V .auto-group-rmlf-68m .changing-course-how-javier-milei-will-tranform-argentinas-foreign-policy-eAH {
+  margin-bottom: 1.8rem;
+  max-width: 50.6rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-p2zh-m6V .auto-group-rmlf-68m .president-elect-milei-will-seek-to-align-latin-americas-thrid-largest-economy-with-the-us-israel-and-the-free-world-8-dec-2023-jxR {
+  max-width: 79.4rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #7a7676;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-p2zh-m6V .image-108-pDB {
+  width: 43.3rem;
+  height: 32.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .line-36-A29 {
+  margin: 0rem 11.789rem 4.78rem 4.5rem;
+  width: calc(100% - 16.2894rem);
+  height: 0.12rem;
+  background-color: #bcacac;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-3fcf-tD3 {
+  margin: 0rem 11.8rem 12rem 4.5rem;
+  width: calc(100% - 16.3rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-3fcf-tD3 .auto-group-vzur-DWD {
+  margin: 0rem 1.7rem 1.2rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-3fcf-tD3 .auto-group-vzur-DWD .tech-firms-falling-to-walk-the-walk-on-ethi-cal-aireport-says-9uf {
+  margin: 0rem 0rem 4.1rem 0.9rem;
+  max-width: 65.8rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-3fcf-tD3 .auto-group-vzur-DWD .stanford-university-reseachers-say-ai-ethics-pratitioners-report-lacking-institutional-support-at-their-companies-dpq {
+  max-width: 82.7rem;
+  font-size: 3.5rem;
+  font-weight: 500;
+  line-height: 1.8725;
+  color: #7a7676;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-3fcf-tD3 .image-110-8Wh {
+  width: 43.3rem;
+  height: 28.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .line-37-sUH {
+  margin: 0rem 10.889rem 2.48rem 5.4rem;
+  width: calc(100% - 16.2894rem);
+  height: 0.12rem;
+  background-color: #bcacac;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-yvyb-zoo {
+  margin: 0rem 11.8rem 4.2rem 5.4rem;
+  width: calc(100% - 17.2rem);
+  height: 37.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-yvyb-zoo .auto-group-frrq-KLH {
+  margin-right: 4.6rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-yvyb-zoo .auto-group-frrq-KLH .as-retailer-reis-troubles-with-employees-continues-consumers-back-off-rb7 {
+  margin-bottom: 1.9rem;
+  max-width: 56.6rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-yvyb-zoo .auto-group-frrq-KLH .once-know-as-the-beacon-of-corporate-america-rei-is-now-embroiled-in-face-offs-with-employees-putting-off-con-sumers-7-dec-2023-ZVX {
+  max-width: 78.9rem;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.8725;
+  color: #7a7676;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-yvyb-zoo .image-111-39o {
+  margin-top: 0.6rem;
+  width: 43.3rem;
+  height: 27.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .auto-group-8bj1-yJM {
+  margin: 0rem 62rem 34.1rem 36.4rem;
+  box-sizing: border-box;
+  padding: 0.4rem 14.5rem 0rem 13.8rem;
+  width: calc(100% - 98.4rem);
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #fffdfd;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.economy-Rf3 .auto-group-ofis-J1K .image-95-Ek5 {
+  margin-right: 1.9rem;
+  width: 142.1rem;
+  height: 64.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
